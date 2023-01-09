@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: aqua;
+}
+.form{
+    margin-top: 250px;
+}
+.input{
+    height: 30px;
+    width: 200px;
+}
+.select{
+    height: 30px;
+}
+button{
+    height: 30px;
+}
